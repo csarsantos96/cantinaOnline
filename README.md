@@ -69,9 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
-
-# **CantinaOnline - Frontend**
+## CantinaOnline - Frontend
 
 This is the frontend for the **CantinaOnline** project, a mobile application designed to manage school cafeteria orders. The app is built using **React Native** and communicates with a backend developed in **Spring Boot**.
 
